@@ -1,4 +1,4 @@
-![firm HAL](img/firm-HAL.png)
+![firm HAL](/img/firm-HAL.png)
 
 firm is an object-oriented C++ hardware abstraction layer (HAL) and collection of device drivers for bare-metal embedded software targeted at microcontrollers.
 
